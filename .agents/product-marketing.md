@@ -1,8 +1,8 @@
 # Product Marketing Context
 
-**Document version:** v1
+**Document version:** v2
 **Last updated:** 2026-09-08
-**Status:** Initial draft based on owner-supplied business information. Items labelled **Needs confirmation** are not settled facts and should not be used as public claims until confirmed.
+**Status:** Confirmed owner-supplied business context with unresolved items clearly identified. Unresolved details should not be used as public claims until confirmed.
 
 ## Product Overview
 
@@ -18,14 +18,17 @@
 
 - A low-cost website subscription is intended to be an accessible entry point.
 - Additional recurring or project work is offered when it genuinely benefits the client and falls outside the base website scope.
-- The preferred base website model is **$19.99 CAD per month with a 12-month commitment**.
-- An upfront signup or setup payment approximately equal to one additional month may be charged for initial setup and domain-related costs. **Needs confirmation:** exact amount, name, tax treatment, payment timing, refund or cancellation terms, and whether it applies in every case.
+- The base website model is **$19.99 CAD per month with a 12-month commitment**.
+- An upfront signup or setup payment roughly equal to one additional month is charged. Its exact amount, public name, tax treatment, payment timing, and contractual wording still need to be finalized.
 - The base offer is a defined standard small-business website, not unlimited custom development.
-- **Needs confirmation:** the exact page limit, revision allowance, delivery timeline, hosting and maintenance inclusions, content responsibilities, support level, renewal terms, post-term monthly price, cancellation process, and all other contractual parameters.
+- The base offer includes up to five standard pages, basic copywriting for those pages, hosting, routine technical maintenance, and three consolidated revision rounds during the initial build.
+- The client supplies the business information, source material, and approvals needed for GoToGuy to write the five pages.
+- Corrections to GoToGuy's mistakes and technical defects do not consume a revision round. Material changes to the approved direction or work beyond the standard scope may be quoted separately.
+- Delivery timelines, ongoing support levels, renewal terms, post-term pricing, cancellation, and other contractual details still need to be finalized.
 
 ### Website Subscription Scope
 
-**Included in principle:** Ordinary features that are easy to implement should generally be included rather than separated into small add-on charges. Within a clearly defined standard website scope, these may include:
+**Included where appropriate:** Ordinary features that are easy to implement are included when appropriate rather than separated into small add-on charges. Within the five-page standard website scope, these can include:
 
 - Standard business pages
 - Contact forms
@@ -43,7 +46,8 @@
 
 - Blog functionality may be part of a website. Writing ongoing blog articles is a separate recurring content service.
 - Embedding or placing a client-supplied video may be included. Producing, filming, editing, or creating video is a separate Video Production service.
-- **Needs confirmation:** which of the items above are guaranteed inclusions versus case-by-case inclusions, and the limits that define a standard website.
+- Basic copywriting is included for the five standard pages. Writing additional website content or ongoing blog articles is a separate service.
+- Routine technical maintenance includes software and security updates, backups, and correction of technical website problems. Client-requested content changes, redesigns, extra pages, and new functionality are separate from routine maintenance.
 
 **Paid add-ons or out-of-scope work may include:**
 
@@ -52,7 +56,7 @@
 - E-commerce
 - Advanced forms or custom functionality
 - Ongoing SEO services
-- Content writing
+- Content writing beyond the five standard pages or ongoing content writing
 - Video production
 - Advanced integrations
 - AI features
@@ -83,7 +87,7 @@ The service categories below make the offer understandable and search-friendly. 
 
 **Target companies:** Primarily small businesses, local service businesses, and owner-operated organizations without an internal marketing or technology department. Likely segments include trades, health and wellness providers, hospitality businesses, restaurants and accommodations, professional services, local retailers, and companies with outdated or ineffective websites.
 
-**Geographic focus:** Niagara Region, Ontario, including Niagara Falls, Fort Erie, Welland, Port Colborne, St. Catharines, and surrounding Niagara communities. GoToGuy may serve clients outside Niagara when work can be delivered remotely. **Needs confirmation:** priority order among communities, practical service radius, and target markets outside Niagara.
+**Geographic focus:** Niagara Region, Ontario, including Niagara Falls, Fort Erie, Welland, Port Colborne, St. Catharines, and surrounding Niagara communities. GoToGuy may serve clients outside Niagara when work can be delivered remotely. Do not force the business to prioritize only one or two industries or individual Niagara communities unless the owner later chooses to narrow the market.
 
 **Decision-makers:** The owner or operator is the likely primary user, champion, decision-maker, and financial buyer. **Needs confirmation:** whether office managers, marketing coordinators, general managers, or other stakeholders commonly evaluate or approve work.
 
@@ -234,9 +238,9 @@ The statements below were supplied as likely buyer thoughts. They are useful wor
 
 | Term | Meaning |
 |------|---------|
-| Base website | A defined standard small-business website offered under the preferred $19.99 CAD monthly model, subject to finalized scope and terms |
-| Website subscription | The recurring website offer with a preferred 12-month initial commitment |
-| Standard scope | The as-yet-unconfirmed limits for the base website, including pages, complexity, revisions, support, and functionality |
+| Base website | A standard small-business website of up to five pages, offered for $19.99 CAD per month with a 12-month commitment and an upfront signup or setup payment roughly equal to one additional month |
+| Website subscription | The recurring base website offer with a 12-month initial commitment |
+| Standard scope | Up to five pages with basic copywriting, hosting, routine technical maintenance, appropriate ordinary website features, and three consolidated revision rounds during the initial build; advanced or materially larger work is separate |
 | Website video integration | Embedding or placing a video the client already has, not producing or editing it |
 | Video Production | Separate production or editing work, including long and short edits, promotional or social video, website video, and related services |
 | Blog functionality | Adding the ability to publish posts, distinct from GoToGuy writing ongoing articles |
@@ -288,7 +292,7 @@ The statements below were supplied as likely buyer thoughts. They are useful wor
 - Build stronger local recognition in Niagara.
 - Eventually include AI-assisted marketing and operational workflows in the service model.
 
-**Conversion action:** **Needs confirmation.** Candidates are request a consultation, contact GoToGuy, request a website, ask for help with a digital problem, or request a quote. Do not set a single primary CTA until the preferred action, qualification process, and follow-up workflow are decided.
+**Conversion action:** The primary CTA is **“Contact GoToGuy.”** It leads to a short contact form that collects the visitor's name, email address, business name, and message, then delivers the submission to GoToGuy by email. The contact page can also provide a direct email option. Relevant service pages may use secondary actions such as “Request a website” or “Request a quote.”
 
 **Current metrics:** None supplied. **Needs confirmation:** revenue, recurring revenue, active clients, website subscriptions, qualified leads, close rate, average project value, retention, churn, traffic, inquiry volume, local visibility, and operational capacity. Keep private metrics separate from claims approved for public use.
 
@@ -303,19 +307,16 @@ The statements below were supplied as likely buyer thoughts. They are useful wor
 
 ## Open Questions and Research Priorities
 
-1. What exactly is included in the $19.99 website, including page count, revisions, content, hosting, maintenance, support, integrations, accessibility, and delivery timeline?
-2. What are the final upfront payment, taxes, billing, renewal, cancellation, ownership, website transfer, and domain transfer terms?
-3. Which one or two customer segments and Niagara communities should be prioritized first, and why?
-4. Which single conversion action should lead the website, and what qualification and follow-up process should happen after it?
-5. Which service categories are available now with proven delivery capacity, which are partner-supported, and which are future capabilities?
-6. What customer, portfolio, testimonial, before-and-after, or outcome evidence is documented and authorized for public use?
-7. What objections and exact phrases have real prospects or customers used in calls, emails, or messages?
-8. What are the practical limits on project size, turnaround, support response, concurrent clients, industries, and geography?
-9. What current business metrics will be tracked internally, and which claims, if any, can be substantiated publicly?
-10. What legal business details, contact information, privacy and accessibility requirements, brand assets, and exact visual standards are finalized?
+1. Finalize billing, tax, renewal, cancellation, website ownership, website transfer, and domain-transfer procedures and terms.
+2. Classify each approved service as directly delivered today, partner-supported, or a future capability.
+3. Document which portfolio examples, testimonials, customer identities, before-and-after materials, and performance evidence are authorized for public use.
+4. Collect and validate the exact language and objections used by real prospects and customers rather than treating working marketing language as quotations.
+5. Set practical capacity policies for project size, turnaround time, support response time, concurrent clients, geography, and excluded industries.
+6. Finalize legal business details, privacy and accessibility requirements, public contact information, brand assets, and exact visual standards. Define internal KPIs separately, and publish performance claims only when evidence substantiates them.
 
 ## Changelog
 
 *Newest first. One line per revision: what changed and why.*
 
+- v2 (2026-09-08) - Confirmed the five-page website scope, included copywriting, hosting, maintenance, three revision rounds, and email-delivered contact CTA; reduced open questions to genuinely unresolved business decisions.
 - v1 (2026-09-08) - Initial context created from owner-supplied business, audience, offer, service, positioning, voice, and strategy information; unknowns and unverified claims were marked for confirmation.
